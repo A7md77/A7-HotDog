@@ -15,7 +15,7 @@
 	["hotdog-potato"] 		 	 	     = {["name"] = "hotdog-potato", 		            ["label"] = "Potato", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "hotdog-potato.png", 			["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "hotdog - Script By A7 Store"},
 
 
-- Add the image files from the zip to your `qb-inventory > html > images` folder
+- Add the image files from the file img to your `qb-inventory > html > images` folder
 
 
 - Add these lines to your qb-core > shared lua under the Jobs section
